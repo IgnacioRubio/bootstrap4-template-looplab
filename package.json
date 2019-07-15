@@ -1,0 +1,29 @@
+{
+  "name": "bootstrap4-template-looplab",
+  "version": "1.0.0",
+  "description": "Template Looplab",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IgnacioRubio/bootstrap4-template-looplab.git"
+  },
+  "author": "Ignacio Rubio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IgnacioRubio/bootstrap4-template-looplab/issues"
+  },
+  "homepage": "https://github.com/IgnacioRubio/bootstrap4-template-looplab#readme",
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "express": "^4.17.1",
+    "i": "^0.3.6",
+    "npm": "^6.10.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
